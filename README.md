@@ -13,7 +13,10 @@ robotframework-seleniumlibrary
 Used Keyword of selenium library to automate the application. 
 
 **3.Run Tests**
-robot <filename>.robot
+robot Task19.robot
+
+To store reports in seperate folder
+robot -d reports Task19.robot
 
 **4.Test Report & Logs**
 After execution, Robot Framework automatically generates 
