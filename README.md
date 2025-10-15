@@ -20,7 +20,7 @@ Used Keyword of selenium library to automate the application.
 robot task19.robot
 
 To store reports in seperate folder
-robot -d reports Task19.robot
+robot -d reports task19.robot
 
 **4.Test Report & Logs**
 
